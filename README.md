@@ -95,13 +95,13 @@ The game loads relative paths such as `Assets/map0.txt`, `Assets/Minecraft.ttf`,
 
 ## Screenshots and Demo
 
-Gameplay screenshots or a short recorded demo would be a useful addition to this README. Add original images from a running build here once available; the image in the inherited `docs/` template is not presented as verified footage of God of Tsinghua.
+<img width="391" height="380" alt="image" src="https://github.com/user-attachments/assets/50c6026e-66a7-41d0-9651-4bc86e08f961" />
 
-## Project Origins and Acknowledgments
+<img width="410" height="395" alt="image" src="https://github.com/user-attachments/assets/5fb35caa-0729-48cf-b790-1229c27c31e7" />
 
-This project was developed for **NTHU Introduction to Programming (I), academic year 113, first semester**, using an existing [Allegro 5 teaching template](https://github.com/j3soon/Allegro5Template) as a starting point. The `Exercises/` and `docs/` directories retain course/template materials for reference.
+<img width="386" height="374" alt="image" src="https://github.com/user-attachments/assets/8a280cd9-fe4c-493a-95c8-fed35eede7b9" />
 
-Allegro is a third-party multimedia/game programming library. Game assets, fonts, and audio remain subject to their respective owners' licenses. This repository does not currently specify a project-wide license; do not assume the game source or bundled assets are licensed for unrestricted reuse.
+More information watch it here: https://www.youtube.com/watch?v=nOXN3rpvxRA
 
 ## References
 
